@@ -148,7 +148,6 @@ nav {
     flex-shrink: 0;
     position: relative;
     border-radius: 20px;
-    box-shadow: 0 0 25px 10px #000;
 }
 
 .thumbnail .item img {
